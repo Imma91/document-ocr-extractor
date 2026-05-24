@@ -1,0 +1,48 @@
+# Dati sensibili — mai pubblicare
+.env
+*.env
+.streamlit/secrets.toml
+secrets.toml
+
+# File temporanei generati dall'app
+temp_*.pdf
+temp_*.png
+tmp_*.pdf
+
+# Note interne di progetto
+PROGETTO_PORTFOLIO.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Ambienti virtuali
+venv/
+.venv/
+env/
+.env/
+
+# Claude Code (configurazione locale)
+.claude/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Log
+*.log

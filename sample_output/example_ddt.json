@@ -1,0 +1,49 @@
+{
+  "document_type": "ddt",
+  "ddt_number": "DDT/2024/00547",
+  "date": "12/03/2024",
+  "sender_name": "Alfa Distribuzione S.r.l.",
+  "sender_address": "Via dell'Industria, 28 — 20090 Segrate (MI)",
+  "sender_vat": "IT03412789012",
+  "recipient_name": "Beta Forniture S.p.A.",
+  "recipient_address": "Corso Roma, 115 — 10128 Torino (TO)",
+  "recipient_vat": "IT07823410023",
+  "carrier": "Trasporti Gamma Srl",
+  "transport_reason": "Vendita",
+  "port": "Franco",
+  "goods_appearance": "Scatole",
+  "goods": [
+    {
+      "description": "Interruttori automatici 16A 3P",
+      "unit": "PZ",
+      "quantity": 50,
+      "weight_kg": 22.5
+    },
+    {
+      "description": "Cavi elettrici FG16OR16 3x2.5mm²",
+      "unit": "MT",
+      "quantity": 200,
+      "weight_kg": 240.0
+    },
+    {
+      "description": "Quadro elettrico da incasso 24 moduli",
+      "unit": "PZ",
+      "quantity": 10,
+      "weight_kg": 38.0
+    },
+    {
+      "description": "Pressacavi PG13.5 in ottone",
+      "unit": "PZ",
+      "quantity": 100,
+      "weight_kg": 12.0
+    },
+    {
+      "description": "Morsettiere serie UK 2.5mm² (conf. 50 pz)",
+      "unit": "CF",
+      "quantity": 8,
+      "weight_kg": 16.8
+    }
+  ],
+  "total_weight_kg": 329.3,
+  "notes": null
+}
